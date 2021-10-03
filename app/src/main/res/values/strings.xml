@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KursW</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="kurs_fragment_label">First Fragment</string>
+    <!-- Strings used for Kurs Labels -->
+    <string name="kurs_name">Name</string>
+    <string name="kurs_symbol">Symbol</string>
+    <string name="kurs_value_sell">Sell</string>
+    <string name="kurs_value_buy">Buy</string>
+    <string name="kurs_flag">Flag</string>
+
+</resources>

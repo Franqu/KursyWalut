@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KursW</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="kurs_fragment_label">Test</string>
+    <string name="kurs_name">Nazwa</string>
+    <string name="kurs_symbol">Symbol</string>
+    <string name="kurs_value_sell">Sprzedaż</string>
+    <string name="kurs_value_buy">Kupno</string>
+    <string name="kurs_flag">Flaga</string>
+</resources>
